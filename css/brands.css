@@ -38,6 +38,14 @@
 	--button-border:1px solid #ffffff;
 }
 
+
+/* TyWeb */
+.button-tyweb {
+	--button-text:#03bf13;
+	--button-background:#2a332c;
+	--button-border:1px solid #03bf13;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
